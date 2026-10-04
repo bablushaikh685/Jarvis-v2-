@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Multilingual AI voice assistant with real Android device control, phone calling, and contacts integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

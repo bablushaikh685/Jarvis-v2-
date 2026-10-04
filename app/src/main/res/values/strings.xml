@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="listening_hint">Tap mic to speak or enter command...</string>
+    <string name="status_ready">Systems online. Ask Jarvis anything or give a command.</string>
+    <string name="status_listening">Listening to voice command...</string>
+    <string name="status_thinking">Jarvis neural core is processing...</string>
+    <string name="status_speaking">Jarvis is speaking...</string>
+    <string name="status_action">Executing protocol action...</string>
+</resources>
